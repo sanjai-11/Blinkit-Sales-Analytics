@@ -9,7 +9,7 @@ This project showcases an advanced sales analysis dashboard developed in Power B
   ### Total Items Sold:
     With 8,523 items sold, the dashboard underscores the extensive variety of products offered by Blinkit.
 
-## Outlet Establishment Timeline:
+  ### Outlet Establishment Timeline:
 A line chart visualizes the growth of outlet establishments over time, with a significant rise in sales observed in 2018, marking a critical growth period.
 
 ## Sales by Fat Content:
